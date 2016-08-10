@@ -1,3 +1,3 @@
 # Software Usability Methods
 
-A collection of work on software usability and UX
+A collection of work on software usability and UX.
